@@ -1,0 +1,6 @@
+.jxgbox {
+  width: 500px;
+  height: 500px;
+  border-radius: inherit;
+  -webkit-border-radius: inherit;
+}
